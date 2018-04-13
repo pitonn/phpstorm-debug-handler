@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Icon=/home/user/app/PhpStorm/bin/phpstorm.png
+Exec="/home/user/app/phpstorm-debug-handler.sh" %u
+StartupNotify=true
+Terminal=false
+MimeType=x-scheme-handler/ide
+Name=ide launcher
